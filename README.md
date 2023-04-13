@@ -8,4 +8,4 @@ Then, connect to the server using localhost:8080 in your preferred browser.
 # Takedown
 
 This is meant as a fun project. If I must take it down due to legal reasons,
-please contact me at thesuncat123@gmail.com, or on Discord at TheSunCat#1007.
+please contact me at danielnorstrom32@gmail.com, or on Discord at Nerpx#3696 Credits to Suncat.
